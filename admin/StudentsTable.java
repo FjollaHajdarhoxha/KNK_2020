@@ -2,7 +2,6 @@ package admin;
 
 import database.DBConnection;
 import database.Hash;
-
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
