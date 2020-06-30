@@ -138,7 +138,13 @@ CREATE TABLE Administrator
 
 INSERT INTO Administrator VALUES 
 ('1','bardhi','bardhi','052887890c09cb97fde4008cf34823285aa91d0e'),
-('2','bleona','bleona','1B6A76F7C77639F409CA003B937674BFCF1DEEF2');
+('2','bleona','bleona','1b6a76f7c77639f409ca003b937674bfcf1deef2'),
+('3','fjolla','fjolla','6ec64679402560e7df82e40ef88ff84aa77a4662'),
+('4','elda','elda','ed0ff82d34be4f36aa45b75542b24697080d28c6'),
+('5','vesa','vesa','19b6e84f9a56c3f33185e5d32b37360c9aba9217'),
+('6','rina','rina','70e21878d268fa8f82817f9278f8bae0fb108950'),
+('7','donika','donika','ee1d07e265c1b3b346dd87f7d48d29b0b508773d'),
+('8','vigan','vigan','5d62808c54c7d5e7218c0d65c3a6a36400cb34d8');
 
 
 INSERT INTO Subjects VALUES
@@ -173,7 +179,10 @@ INSERT INTO City VALUES
 ('2001', 'Kline', 'Kosove', '32000'),
 ('2002', 'Drenas', 'Kosove', '11000'),
 ('2003', 'Istog', 'Kosove', '12000'),
-('2004', 'Gjakove', 'Kosove', '50000');
+('2004', 'Gjakove', 'Kosove', '50000')
+('2005', 'Suhareke', 'Kosove', '12400'),
+('2006', 'Prizren', 'Kosove', '22000'),
+('2007', 'Ferizaj', 'Kosove', '32000');
 
 
 INSERT INTO gradeDescription VALUES
