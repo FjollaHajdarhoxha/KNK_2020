@@ -2,10 +2,12 @@
     -fx-background-image: url(images/main-background.4jpeg.jpeg);
 
 }
+
 .label{
     -fx-text-fill: rgb(6, 243, 184);
     -fx-font-size:15px;
 }
+
 .button{
     -fx-text-fill: black;
     -fx-background-radius: 4;
