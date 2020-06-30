@@ -23,11 +23,13 @@
     -fx-width:150px;
     -fx-font-size:22px;
 }
+
 .title{
     -fx-font-size:35px;
     -fx-text-fill: rgb(0, 212, 11);
     -fx-font-weight:bold;
 }
+
 .error{
     -fx-text-fill: red;
     -fx-font-weight:bold;
