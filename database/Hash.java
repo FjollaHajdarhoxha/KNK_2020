@@ -1,7 +1,7 @@
 package database;
 
 import java.security.MessageDigest;
-
+//enkriptimi me SHA1,te dhenat hyrese
 public class Hash {
 	public static String SHA1(String input) {
 		try {
