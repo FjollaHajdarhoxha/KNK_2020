@@ -22,7 +22,6 @@ public class AdminHelp {
 		webEngine.load(url);
 
 		Scene sc = new Scene(browser, 800, 500);
-
 		helpAboutStage.setTitle("Admin - Help");
 		helpAboutStage.setScene(sc);
 
