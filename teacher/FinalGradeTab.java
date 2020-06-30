@@ -9,6 +9,7 @@ import javafx.geometry.Insets;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.Tab;
+
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableRow;
 import javafx.scene.control.TableView;
@@ -27,6 +28,8 @@ public class FinalGradeTab
 		this.tab = tab;
 	}
 
+	
+	
 	// Table views
 	private TableView gradesTable = new TableView();
 
