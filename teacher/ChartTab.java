@@ -5,7 +5,6 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.Arrays;
-
 import database.DBConnection;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
