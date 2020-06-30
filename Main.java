@@ -105,6 +105,7 @@ public class Main extends Application {
 				new StudentLogin().createStage();
 			}
 		});
+
 		mainPain.setTop(photoPane);
 		mainPain.setCenter(pane);
 		Scene scene = new Scene(mainPain, 700, 400);
