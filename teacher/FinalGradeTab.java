@@ -2,7 +2,6 @@ package teacher;
 
 import java.sql.ResultSet;
 import java.util.List;
-
 import database.DBConnection;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
