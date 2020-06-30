@@ -28,7 +28,6 @@ public class TeacherLogin
 	private Button btnLogin = new Button("Login");
 	private Label title = new Label("Login as Teacher");
 	private Stage mainStage;
-
 	public void createStage()
 	{
 		Stage primaryStage = new Stage();
