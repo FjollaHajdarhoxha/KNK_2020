@@ -69,7 +69,8 @@ public class Login extends Application
 		String query = "Select * from Administrator where email = ? AND password = ?";
 		try {
 			PreparedStatement preparedStatement = dbConnection.prepareStatement(query);
-			//
+			// 
+			
 			preparedStatement.setString(1, username.getText());
 			preparedStatement.setString(2, password.getText());
 			
