@@ -27,8 +27,7 @@ import student.StudentLogin;
 import teacher.TeacherLogin;
 
 public class Main extends Application {
-
-	private Button admin;
+        private Button admin;
 	private Button teacher;
 	private Button student;
 
