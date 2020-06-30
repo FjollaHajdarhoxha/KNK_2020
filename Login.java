@@ -21,7 +21,7 @@ public class Login extends Application
 	private Connection dbConnection;
 	private TextField username = new TextField();
 	private PasswordField password = new PasswordField();
-	private Button btnDergo = new Button("KYÇU");
+	private Button btnDergo = new Button("KYÃ‡U");
 	private Stage mainStage;
 	private Scene scene2 = new Scene(new Label("Mirdita"));
 
@@ -87,7 +87,8 @@ public class Login extends Application
 				mainStage.setScene(scene2);
 				
 //				System.exit(1);
-			}else {
+			}
+                                else {
 				Alert alert = new Alert(AlertType.INFORMATION);
 				alert.setTitle("User not found");
 				alert.setHeaderText(null);
