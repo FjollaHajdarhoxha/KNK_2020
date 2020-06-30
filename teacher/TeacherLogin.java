@@ -3,7 +3,6 @@ package teacher;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-
 import database.DBConnection;
 import database.Hash;
 import javafx.application.Application;
