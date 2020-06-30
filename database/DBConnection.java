@@ -10,7 +10,7 @@ public class DBConnection {
 	
 	private final static String host = System.getenv("DB_HOST"); //emri i hostit ne pc,localhost
 	private final static String dbName = System.getenv("DB_NAME");
-	private final static String username = System.getenv("DB_USERNAME");
+	private final static String username = System.getenv("DB_USERNAME"); //kur krijohet llogaria ne mysql,username qe vendoset aty
 	private final static String password = System.getenv("DB_PASSWORD");
 	
 	public static Connection getConnection() {
